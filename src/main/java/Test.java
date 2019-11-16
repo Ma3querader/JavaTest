@@ -5,6 +5,7 @@ public class Test {
         try {
             System.out.println(round);
             System.out.println("fuck");
+            System.out.println("you");
         } catch (ArithmeticException e) {
 
         }
