@@ -4,8 +4,6 @@ public class Test {
         int round = (int) Math.round(Math.random());
         try {
             System.out.println(round);
-            System.out.println("fuck");
-            System.out.println("you");
         } catch (ArithmeticException e) {
 
         }
